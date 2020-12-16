@@ -1,0 +1,9 @@
+.fox {
+  height: 15vw;
+}
+
+@media (pointer: none), (pointer: coarse) {
+  .fox {
+    height: 25vh;
+  }
+}
