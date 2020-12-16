@@ -14,6 +14,8 @@ The app is responsive
 
 ![Screenshot](Capture.JPG)
 
+![Screenshot](Capture2.JPG)
+
 # Adobe Xd example Design
 
 https://xd.adobe.com/view/6b9e4ef9-fc0c-4f5d-8b52-e36fe5fd1103-3ecd/
