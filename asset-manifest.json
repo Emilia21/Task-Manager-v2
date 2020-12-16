@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Task-Manager-v2/static/css/main.23d528bc.chunk.css",
+    "main.js": "/Task-Manager-v2/static/js/main.98376e0b.chunk.js",
+    "main.js.map": "/Task-Manager-v2/static/js/main.98376e0b.chunk.js.map",
+    "runtime-main.js": "/Task-Manager-v2/static/js/runtime-main.73c4c8ff.js",
+    "runtime-main.js.map": "/Task-Manager-v2/static/js/runtime-main.73c4c8ff.js.map",
+    "static/js/2.97756fa5.chunk.js": "/Task-Manager-v2/static/js/2.97756fa5.chunk.js",
+    "static/js/2.97756fa5.chunk.js.map": "/Task-Manager-v2/static/js/2.97756fa5.chunk.js.map",
+    "index.html": "/Task-Manager-v2/index.html",
+    "static/css/main.23d528bc.chunk.css.map": "/Task-Manager-v2/static/css/main.23d528bc.chunk.css.map",
+    "static/js/2.97756fa5.chunk.js.LICENSE.txt": "/Task-Manager-v2/static/js/2.97756fa5.chunk.js.LICENSE.txt",
+    "static/media/add.png": "/Task-Manager-v2/static/media/add.5cdd9c94.png",
+    "static/media/bin.png": "/Task-Manager-v2/static/media/bin.ccb73794.png",
+    "static/media/fox.png": "/Task-Manager-v2/static/media/fox.bb45f8f2.png",
+    "static/media/pen.png": "/Task-Manager-v2/static/media/pen.51bb6b37.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73c4c8ff.js",
+    "static/js/2.97756fa5.chunk.js",
+    "static/css/main.23d528bc.chunk.css",
+    "static/js/main.98376e0b.chunk.js"
+  ]
+}

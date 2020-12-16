@@ -1,0 +1,2 @@
+body,html{height:-webkit-fill-available;padding:3.3% 15%}body{background-color:#c9fad6;font-family:"Segoe UI",Tahoma,Geneva,Verdana,sans-serif;font-weight:700;border:1px;border-style:dashed;padding:4%}.grid{display:grid;grid-template-rows:1fr 3.5fr 1fr;justify-items:center}@media (max-width:700px){#root{height:100%}html{padding:10% 3%}}@media (pointer:coarse),(pointer:none){body{height:95%}}.fox{height:15vw}@media (pointer:coarse),(pointer:none){.fox{height:25vh}}
+/*# sourceMappingURL=main.23d528bc.chunk.css.map */
