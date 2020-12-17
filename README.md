@@ -3,8 +3,8 @@
 # Summary
 React project made created to manage tasks. It has two main states:
   - there are tasks:
-      It shows the tasks. Each tasks can be marked as done, editted or deleted. Tasks have drag and drop property so to be reordered. 
-  - there aran't tasks:
+      It shows the tasks. Each tasks can be marked as done, edited or deleted. Tasks have drag and drop property so to be reordered. 
+  - there aren't tasks:
       Then it shows "No more tasks to do" screen with bouncing fox.
 And there are button on the both screens for adding new tasks by pop up window form.
 
